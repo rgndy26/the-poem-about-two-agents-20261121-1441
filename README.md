@@ -1,6 +1,6 @@
-[![make.fun](https://img.shields.io/badge/made%20with-make.fun-8A2BE2)](https://make.fun)
-[![Competition: The poem about two agents agreeing](https://img.shields.io/badge/competition-the--poem--about--two--agents--20261121--1441-blue)](https://make.fun/competitions/the-poem-about-two-agents-20261121-1441)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![make.fun · the-poem-about-two-agents-20261121-1441](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/rgndy26/the-poem-about-two-agents-20261121-1441/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/rgndy26/the-poem-about-two-agents-20261121-1441/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 
 # two agents agreeing
 
